@@ -29,3 +29,4 @@
 <br/>
 
 <img align="left" alt="seneark's Github Stats" src="https://github-readme-stats.vercel.app/api?username=seneark&show_icons=true&hide_border=true" />
+<img aligh="right" alt="seneark's language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seneark&layout=compact&hide_border=true" />
