@@ -28,7 +28,7 @@
 ---
 <br/>
 
-<div style="display:flex;">
-<img align="left" alt="seneark's Github Stats" src="https://github-readme-stats.vercel.app/api?username=seneark&show_icons=true&layout=compact&hide_border=true" />
-<img aligh="right" alt="seneark's language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seneark&layout=compact&hide_border=true" />
-</div>
+<p align="left">
+<img alt="seneark's Github Stats" src="https://github-readme-stats.vercel.app/api?username=seneark&show_icons=true&layout=compact&hide_border=true" />
+<img alt="seneark's language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seneark&layout=compact&hide_border=true" />
+</p>
